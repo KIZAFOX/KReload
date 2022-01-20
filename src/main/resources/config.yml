@@ -1,0 +1,11 @@
+#AUTHOR: KIZAFOX
+#VERSION: 1.0
+#SITE: https://twitter.com/KIZAFOX
+
+countdown: 5
+
+messages:
+  inventory_name: "KReload » Click to reload"
+  before_reload: "&eServer reload in %countdown%s"
+  after_reload: "&aServer reloaded successfully !"
+  no-permission: "&cYou don't have permission to use this command !"

@@ -1,0 +1,10 @@
+name: KReload
+version: '${project.version}'
+main: fr.kizafox.kreload.KReload
+api-version: 1.18
+authors: [ KIZAFOX ]
+description: KReload is an simple plugin make for custom reloading..
+website: https://twitter.com/KIZAFOX
+
+commands:
+  kreload:
