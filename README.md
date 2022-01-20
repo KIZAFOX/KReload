@@ -21,6 +21,12 @@ Spigot Version | Support
 
 My plugin is an open source project, you can clone him and modify all everything as you wish
 
+Inventory :
+![alt text](https://i.ibb.co/fvSM3dX/dsqdsqdqs.png)
+
+Config :
+![alt text](https://i.ibb.co/ScRzQKr/dsqdsdsqddsqdqs.png)
+
 # Author
 
 * [KIZAFOX](https://github.com/KIZAFOX)
